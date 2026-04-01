@@ -1,1 +1,1 @@
-# mean-variance-calculator
+Mean-Variance-Standard Deviation Calculator
